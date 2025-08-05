@@ -1,0 +1,17 @@
+
+---
+
+## 🧪 Comandos para rodar no terminal do VS Code
+
+```bash
+# 1. Criar ambiente virtual
+python -m venv venv
+
+# 2. Ativar (Windows PowerShell)
+.\venv\Scripts\activate
+
+# 3. Instalar dependências
+pip install -r requirements.txt
+
+# 4. Executar a aplicação
+python main.py
